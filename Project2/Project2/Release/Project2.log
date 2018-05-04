@@ -1,0 +1,22 @@
+﻿  RoadSystem.cpp
+c:\users\jakub6906\source\repos\project2\project2\RoadSystem.h(13): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jakub6906\source\repos\project2\project2\RoadSystem.h(14): warning C4305: 'initializing': truncation from 'double' to 'const float'
+RoadSystem.cpp(32): warning C4305: 'initializing': truncation from 'double' to 'float'
+RoadSystem.cpp(38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+RoadSystem.cpp(43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+RoadSystem.cpp(68): warning C4018: '>=': signed/unsigned mismatch
+RoadSystem.cpp(85): warning C4018: '<': signed/unsigned mismatch
+RoadSystem.cpp(99): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+RoadSystem.cpp(100): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+RoadSystem.cpp(238): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+RoadSystem.cpp(241): warning C4018: '<': signed/unsigned mismatch
+RoadSystem.cpp(249): warning C4018: '<': signed/unsigned mismatch
+RoadSystem.cpp(290): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+RoadSystem.cpp(294): warning C4018: '<': signed/unsigned mismatch
+RoadSystem.cpp(302): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  0 of 368 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project2.vcxproj -> C:\Users\jakub6906\source\repos\Project2\Release\Project2.exe

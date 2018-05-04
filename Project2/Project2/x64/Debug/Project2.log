@@ -1,0 +1,21 @@
+﻿  Vehicle.cpp
+c:\users\jakub6906\desktop\final project\project2\project2\vehicle.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub6906\desktop\final project\project2\project2\vehicle.cpp(47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub6906\desktop\final project\project2\project2\vehicle.cpp(48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  RoadSystem.cpp
+c:\users\jakub6906\desktop\final project\project2\project2\roadsystem.h(13): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jakub6906\desktop\final project\project2\project2\roadsystem.h(14): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jakub6906\desktop\final project\project2\project2\roadsystem.cpp(32): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jakub6906\desktop\final project\project2\project2\roadsystem.cpp(38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub6906\desktop\final project\project2\project2\roadsystem.cpp(43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub6906\desktop\final project\project2\project2\roadsystem.cpp(99): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub6906\desktop\final project\project2\project2\roadsystem.cpp(100): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub6906\desktop\final project\project2\project2\roadsystem.cpp(238): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub6906\desktop\final project\project2\project2\roadsystem.cpp(290): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Graphics.cpp
+  main.cpp
+c:\users\jakub6906\desktop\final project\project2\project2\roadsystem.h(13): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jakub6906\desktop\final project\project2\project2\roadsystem.h(14): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jakub6906\desktop\final project\project2\project2\main.cpp(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Project2.vcxproj -> C:\Users\jakub6906\Desktop\final project\Project2\x64\Debug\Project2.exe

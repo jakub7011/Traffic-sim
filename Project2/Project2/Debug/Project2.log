@@ -1,0 +1,19 @@
+﻿  RoadSystem.cpp
+c:\users\jakub6906\source\repos\project2\project2\Vehicle.h(45): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jakub6906\source\repos\project2\project2\Vehicle.h(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\jakub6906\source\repos\project2\project2\Vehicle.h(114): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub6906\source\repos\project2\project2\Vehicle.h(117): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub6906\source\repos\project2\project2\RoadSystem.h(15): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jakub6906\source\repos\project2\project2\RoadSystem.h(16): warning C4305: 'initializing': truncation from 'double' to 'const float'
+RoadSystem.cpp(45): warning C4305: 'initializing': truncation from 'double' to 'float'
+RoadSystem.cpp(54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+RoadSystem.cpp(59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+RoadSystem.cpp(84): warning C4018: '>=': signed/unsigned mismatch
+RoadSystem.cpp(104): warning C4018: '<': signed/unsigned mismatch
+RoadSystem.cpp(120): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+RoadSystem.cpp(121): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+RoadSystem.cpp(257): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+RoadSystem.cpp(259): warning C4018: '<': signed/unsigned mismatch
+RoadSystem.cpp(287): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+RoadSystem.cpp(292): warning C4018: '<': signed/unsigned mismatch
+  Project2.vcxproj -> C:\Users\jakub6906\source\repos\Project2\Debug\Project2.exe
